@@ -19,7 +19,7 @@ module.exports = {
       .setColor(`#f9f338`)
       .setTitle(`${badge.name}`)
       .setDescription(`${badge.description}`)
-      .setThumbnail(`https://cdn.sylvee.xyz/${badge.path}.png`)
+      .setThumbnail(`https://cdn.sylvee.xyz/gracebadge${badge.path}.png`)
 
       await interaction.reply({ embeds: [embed] });
     },
