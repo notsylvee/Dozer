@@ -19,7 +19,7 @@ module.exports = {
       .setColor(`#f9f338`)
       .setTitle(`${item.name}`)
       .setDescription(`${item.description}`)
-      .setThumbnail(`https://cdn.sylvee.xyz/graceitem${item.path}.png`)
+      .setThumbnail(`https://cdn.sylvee.xyz/graceitem${item.num}.png`)
       .setFooter({ text: `${item.cost} Bricks`, iconURL: `https://cdn.sylvee.xyz/gracebrick.png` });
 
       await interaction.reply({ embeds: [embed] });
