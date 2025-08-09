@@ -1,0 +1,9 @@
+{
+    "items": [
+        { "num": "1", "name": "Flashlight", "cost": "0", "description": "Light stored in a bulb, it lights up everything in front of it in a pretty good range.\nIts flicker allows you to scram or vanquish certain entities, when pointed right at them. Makes for a good fidget toy too. The good light inside is of His origin, and it is His gift to you." },
+        { "num": "2", "name": "Lantern", "cost": "100", "description": "Light stored in a glass dome, it lights up everything around you within a smaller distance than usual in an orange tint.\nIts flicker is notably delayed but basically identical to its predecessor. Proves very effective in seeing around corners. While made of glass, there hasn't been any cases of one breaking or cracking. The good light inside is of His origin, and it is His gift to you." },
+        { "num": "3", "name": "S.H.A.K.E.", "cost": "4,000", "description": "**SIGHT. HEIGHTENING. APPARATUS OF. KINETIC. ENERGY.**\nIts lens reverse polarity, creating light from darkness. It does require some moving around to keep it charged though, but you can hold other items without taking your vision out as it stays on your head. Doesn't mean you're free from it. It reverses the dark and turns it into light and shows you the way, just like He does, and it is His gift to you." },
+        { "num": "4", "name": "Doombringer", "cost": "9,999", "description": "**DON'T**" },
+        { "num": "5", "name": "Gleam", "cost": "15,000", "description": "**DEPTHS of NARROW LOVE 12mm SUPPRESSED.**\nIts laser, light stored in a fine beam, illuminates the path it hits. When held, reveals targets that speed boost everyone when destroyed using one of it's 9 bullets. A lot of darkness around, but it's light fares strong. Its light and Love are of His origin and it is His gift to you." }
+    ]
+}
